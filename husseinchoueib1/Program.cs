@@ -9,3 +9,7 @@ Console.WriteLine("ttttt");
 Console.WriteLine("hussein");
 
 Console.WriteLine();
+for(int i = 0;i < 100000000000000000000000000000000000000;i++)
+{
+    Console.WriteLine("HI ALL ");
+}
