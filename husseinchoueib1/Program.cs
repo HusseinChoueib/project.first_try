@@ -6,3 +6,4 @@ for (int i = 0; i < 10; i++)
 { Console.WriteLine("foutrh"); }
 Console.WriteLine("6");
 Console.WriteLine("ttttt");
+/* JFGWUIFGWIUFGIUFHWFFG3IO34I82GGYIGH3IOGHEIHJNDUIQHJUIGHHFIOHWH89*/
